@@ -14,6 +14,6 @@
        
     </head>
     <body>
-        <h2>Welcome To Cars Project</h2>
+        <h2>About Us</h2>
     </body>
 </html>
